@@ -1,3 +1,8 @@
+Nama : Ary Bayu Nurwicaksono
+NIM  : 19.11.2762
+Kelas: 19 informatika 03
+
+
 # StudiCase
 
 Aplikasi Promos keranjang/kasir sederhana yang juga merupakan modifikasi aplikasi di repo sebelumnya yang juga merupakan bahan untuk UTS saya, dan sekarang memperbaiki dengan menambahkan beberapa fitur baru
